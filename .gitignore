@@ -1,0 +1,15 @@
+# Datos y salidas
+*.csv
+*.tsv
+*.parquet
+*.tmp
+*.schema.json
+test-window.ps1
+test-page-utils.ps1
+test-parquet-writer.ps1
+PrompterJSON.ps1
+
+# Ruido de Windows / editores
+Thumbs.db
+Desktop.ini
+.vscode/
